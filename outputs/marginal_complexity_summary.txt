@@ -1,0 +1,6 @@
+Average marginal predicted failure probabilities from the primary clustered GEE model
+For each reasoning-complexity level, predictions were generated after setting all observations
+to that complexity level while retaining the observed distribution of the other covariates.
+Low: 4.8%
+Moderate: 20.8% (absolute increase vs low: 16.0 percentage points)
+High: 26.3% (absolute increase vs low: 21.5 percentage points)

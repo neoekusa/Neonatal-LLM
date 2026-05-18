@@ -1,0 +1,36 @@
+Main Figure Order
+
+Figure 1. Overall accuracy by LLM family.
+File: outputs/graph_accuracy_rate_by_language_family_dotplot_legend.png
+
+Figure 2. Clinical domain and guideline-source distribution.
+File: outputs/figure_clinical_domain_and_guideline_distribution.png
+
+Figure 3. Primary clustered GEE forest plot.
+File: outputs/forest_plot_primary_gee_journal.png
+
+Figure 4. Marginal predicted failure probability by reasoning complexity.
+File: outputs/graph_marginal_failure_by_complexity.png
+
+Supplementary Figures
+
+Supplementary Figure 1. Supportive cognitive-process plus reasoning-complexity forest plot.
+File: outputs/forest_plot_cognitive_complexity_journal.png
+
+Supplementary Figure 2. Expanded exploratory full-taxonomy forest plot.
+File: outputs/full_exploratory_remember_forest.png
+
+Supplementary Figure 3. Collapsed sparse-category exploratory sensitivity forest plot.
+File: outputs/full_exploratory_collapsed_forest_publication.png
+
+Supplementary Figure 4. Verified Cramer's V taxonomy collinearity heatmap.
+File: outputs/verified_cramers_v_matrix.png
+
+Supplementary Figure 5. Verified VIF taxonomy collinearity plot.
+File: outputs/verified_vif_values.png
+
+Supplementary Figure 6. Inter-model Spearman error-correlation heatmap.
+File: outputs/figure_inter_model_error_correlation_heatmap.png
+
+Supplementary Figure 7. Cross-model domain-level error heatmap.
+File: outputs/figure_cross_model_error_patterns_main_domains.png

@@ -1,0 +1,13 @@
+model,factor,wald_chi2,df,p_value
+Expanded exploratory GEE,Cognitive,5.63924438,4,0.227758214567258
+Expanded exploratory GEE,Complexity,10.4682723,2,0.005331428052713055
+Expanded exploratory GEE,Difficulty,0.39362866,2,0.8213431183428628
+Expanded exploratory GEE,Intercept,20.08262008,1,7.416761422782767e-06
+Expanded exploratory GEE,Knowledge,2.59400373,3,0.45854174088971356
+Expanded exploratory GEE,Risk,0.56032005,3,0.9054529932265357
+Expanded exploratory GEE,Task,0.4275411,3,0.9344961888412013
+Primary clustered GEE,Cognitive_Process,6.190380797836458,4,0.1853744978739885
+Primary clustered GEE,Reasoning_Complexity,12.595935280661688,2,0.0018400406037839
+Primary clustered GEE,Universal_Task_Category,0.6133504280447368,3,0.8933694121754732
+Simplified clustered GEE,Cognitive_Process,8.73711909,4,0.0680168428924359
+Simplified clustered GEE,Reasoning_Complexity,13.16914415,2,0.0013815184263152

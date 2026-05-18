@@ -1,0 +1,15 @@
+Q No,Models Failed,Clinical Domain,Subdomain,Reasoning Complexity,Clinical Risk
+59,20 / 20,Gastroenterology,Malabsorption,Moderate,Medium
+110,18 / 20,Endocrinology,TPO Deficiency,Moderate,High
+126,17 / 20,Nephrology,CNS Finnish,Moderate,Medium
+8,15 / 20,Cardiology,Cyanotic CHD (Tricuspid),High,Critical
+85,15 / 20,Pulmonology,Pulm Hypoplasia,Moderate,High
+15,14 / 20,Hematology,Hyperbilirubinemia,Moderate,High
+84,14 / 20,Cardiology,Hydrops Fetalis,Moderate,High
+30,13 / 20,Pulm / Surgery,Resp. Distress (Diff Dx),High,High
+71,13 / 20,Ophthalmology,ROP Risks,Moderate,High
+88,12 / 20,Neurology,Acute Bili Enceph.,Moderate,High
+41,11 / 20,Metabolism,Urea Cycle (OTC),Moderate,High
+96,11 / 20,Ventilation,PaCO2 Adjustment,High,High
+74,10 / 20,Neurology,Sarnat Stage II,Moderate,High
+95,10 / 20,Perinatology,Polyhydramnios,Low,Low

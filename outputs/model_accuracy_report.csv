@@ -1,0 +1,21 @@
+Model,Correct,Wrong,Accuracy (%)
+ChatGPT-5.5 Thinking,123,4,96.85
+Gemini 3.1 Pro,123,4,96.85
+ChatGPT-5.4,116,11,91.34
+Grok 4,116,11,91.34
+ChatGPT-5.2,115,12,90.55
+Gemini 2.5 Pro,115,12,90.55
+ChatGPT-4,114,13,89.76
+Gemini 3 Pro,114,13,89.76
+ChatGPT-5.4 Thinking,113,14,88.98
+Claude Sonnet 4.5,113,14,88.98
+DeepSeek-V4,111,16,87.4
+ChatGPT-5,110,17,86.61
+Claude Sonnet 4.6,109,18,85.83
+Claude Sonnet 3.5,108,19,85.04
+Grok 4.2,107,20,84.25
+DeepSeek-V3,106,21,83.46
+Gemma 4,100,27,78.74
+Llama 4,96,31,75.59
+Llama 3.3,93,34,73.23
+DeepSeek-V3.2,87,40,68.5

@@ -1,0 +1,21 @@
+Model,Total Questions,Correct,Wrong,Accuracy (%),Rank
+GPT 5.5 Thinking,127,123,4,96.85,1
+Gemini 3.1 Pro,127,123,4,96.85,2
+Chat 5.4,127,116,11,91.34,3
+Grok 4,127,116,11,91.34,4
+ChatGPT 5.2,127,115,12,90.55,5
+Gemini 2.5 Pro,127,115,12,90.55,6
+ChatGPT 4,127,114,13,89.76,7
+Gemini 3 Pro,127,114,13,89.76,8
+Chat 5.4 Thinking,127,113,14,88.98,9
+Claude Sonnet 4.5,127,113,14,88.98,10
+DeepSeek V4,127,111,16,87.40,11
+ChatGPT 5,127,110,17,86.61,12
+Claude Sonnet 4.6,127,109,18,85.83,13
+Claude Sonnet 3.5,127,108,19,85.04,14
+Grok 4.2,127,107,20,84.25,15
+DeepSeek v3,127,106,21,83.46,16
+Gemma 4,127,100,27,78.74,17
+Llama 4,127,96,31,75.59,18
+Llama 3.3,127,93,34,73.23,19
+DeepSeek 3.2,127,87,40,68.50,20

@@ -1,0 +1,7 @@
+Previous primary model: Cognitive + Complexity + Universal Task
+Reasoning Complexity joint Wald: chi2=12.60, p=0.002
+Cognitive Process joint Wald: chi2=6.19, p=0.185
+
+New model: Cognitive + Complexity
+Reasoning Complexity joint Wald: chi2=13.17, p=0.001
+Cognitive Process joint Wald: chi2=8.74, p=0.068

@@ -1,0 +1,66 @@
+=== VIF ===
+            Variable      VIF
+      Complexity_Low 5.230193
+  Cognitive_Remember 4.694018
+ Complexity_Moderate 3.053066
+Cognitive_Understand 2.961550
+     Cognitive_Apply 1.539054
+  Cognitive_Evaluate 1.088637
+
+=== GEE SUMMARY ===
+                               GEE Regression Results                              
+===================================================================================
+Dep. Variable:                     Failure   No. Observations:                 2540
+Model:                                 GEE   No. clusters:                      127
+Method:                        Generalized   Min. cluster size:                  20
+                      Estimating Equations   Max. cluster size:                  20
+Family:                           Binomial   Mean cluster size:                20.0
+Dependence structure:         Exchangeable   Num. iterations:                     2
+Date:                     Mon, 18 May 2026   Scale:                           1.000
+Covariance type:                    robust   Time:                         23:14:21
+===============================================================================================================================
+                                                                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                      -2.4379      0.293     -8.328      0.000      -3.012      -1.864
+C(Cognitive, Treatment(reference='Remember'))[T.Analyze]       -1.0847      0.684     -1.585      0.113      -2.426       0.257
+C(Cognitive, Treatment(reference='Remember'))[T.Apply]         -1.6089      0.632     -2.546      0.011      -2.848      -0.370
+C(Cognitive, Treatment(reference='Remember'))[T.Evaluate]      -1.3924      0.891     -1.563      0.118      -3.139       0.354
+C(Cognitive, Treatment(reference='Remember'))[T.Understand]    -0.3417      0.497     -0.687      0.492      -1.317       0.633
+C(Complexity, Treatment(reference='Low'))[T.High]               1.8786      0.728      2.581      0.010       0.452       3.305
+C(Complexity, Treatment(reference='Low'))[T.Moderate]           1.6378      0.455      3.603      0.000       0.747       2.529
+==============================================================================
+Skew:                          1.9546   Kurtosis:                       2.2203
+Centered skew:                 1.2775   Centered kurtosis:              4.0705
+==============================================================================
+
+=== LPM SUMMARY ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                Correct   R-squared:                       0.044
+Model:                            OLS   Adj. R-squared:                  0.041
+Method:                 Least Squares   F-statistic:                     2.115
+Date:                Mon, 18 May 2026   Prob (F-statistic):             0.0560
+Time:                        23:14:21   Log-Likelihood:                -845.04
+No. Observations:                2540   AIC:                             1704.
+Df Residuals:                    2533   BIC:                             1745.
+Df Model:                           6                                         
+Covariance Type:              cluster                                         
+===============================================================================================================================
+                                                                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                       0.9136      0.026     35.462      0.000       0.863       0.964
+C(Cognitive, Treatment(reference='Remember'))[T.Analyze]        0.1442      0.089      1.622      0.105      -0.030       0.318
+C(Cognitive, Treatment(reference='Remember'))[T.Apply]          0.1902      0.074      2.554      0.011       0.044       0.336
+C(Cognitive, Treatment(reference='Remember'))[T.Evaluate]       0.1786      0.102      1.758      0.079      -0.021       0.378
+C(Cognitive, Treatment(reference='Remember'))[T.Understand]     0.0340      0.056      0.605      0.545      -0.076       0.144
+C(Complexity, Treatment(reference='Low'))[T.High]              -0.2170      0.089     -2.446      0.014      -0.391      -0.043
+C(Complexity, Treatment(reference='Low'))[T.Moderate]          -0.1924      0.062     -3.115      0.002      -0.313      -0.071
+==============================================================================
+Omnibus:                      871.399   Durbin-Watson:                   1.875
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2134.195
+Skew:                          -1.958   Prob(JB):                         0.00
+Kurtosis:                       5.199   Cond. No.                         9.97
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)

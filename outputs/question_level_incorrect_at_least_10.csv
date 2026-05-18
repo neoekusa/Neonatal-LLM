@@ -1,0 +1,21 @@
+,Q8: Cardiology | Cyanotic CHD (Tricuspid),Q15: Hematology | Hyperbilirubinemia,Q30: Pulm / Surgery | Resp. Distress (Diff Dx),Q41: Metabolism | Urea Cycle (OTC),Q59: Gastroenterology | Malabsorption,Q71: Ophthalmology | ROP Risks,Q74: Neurology | Sarnat Stage II,Q84: Cardiology | Hydrops Fetalis,Q85: Pulmonology | Pulm Hypoplasia,Q88: Neurology | Acute Bili Enceph.,Q95: Perinatology | Polyhydramnios,Q96: Ventilation | PaCO2 Adjustment,Q110: Endocrinology | TPO Deficiency,Q126: Nephrology | CNS Finnish
+ChatGPT-5,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Gemini 3 Pro,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+Claude Sonnet 4.5,0,0,0,1,0,0,1,1,0,0,1,1,0,0
+ChatGPT-5.2,1,1,1,0,0,1,0,1,0,0,0,0,0,0
+Claude Sonnet 3.5,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+Gemini 2.5 Pro,0,1,1,1,0,0,0,0,0,0,1,1,0,1
+DeepSeek-V3,1,0,0,0,0,1,0,1,0,1,0,0,0,0
+ChatGPT-4,0,0,1,0,0,1,0,0,1,1,1,1,1,0
+Claude Sonnet 4.6,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+DeepSeek-V3.2,0,0,0,0,0,1,0,0,0,1,0,0,1,0
+Gemini 3.1 Pro,1,1,1,1,0,0,1,1,1,1,1,1,0,1
+ChatGPT-5.4 Thinking,0,0,0,0,0,0,1,0,0,1,1,1,0,0
+Grok 4.2,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Llama 4,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ChatGPT-5.4,0,0,1,0,0,0,1,0,0,1,1,0,0,0
+Llama 3.3,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Grok 4,0,0,0,1,0,0,1,0,1,0,1,1,0,0
+Gemma 4,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ChatGPT-5.5 Thinking,1,1,1,1,0,0,1,1,1,1,1,1,0,1
+DeepSeek-V4,0,1,0,1,0,0,1,0,1,1,0,1,0,0

@@ -1,0 +1,30 @@
+section,model,variable,wald_chi2,df,p_value,notes
+manuscript,Primary clustered GEE,Cognitive process,6.19,4,0.185,Stable
+manuscript,Primary clustered GEE,Reasoning complexity,12.60,2,0.002,Stable
+manuscript,Primary clustered GEE,Universal task category,0.61,3,0.893,Stable
+manuscript,Simplified clustered GEE,Cognitive process,8.74,4,0.068,Stable
+manuscript,Simplified clustered GEE,Reasoning complexity,13.17,2,0.001,Stable
+manuscript,Collapsed exploratory GEE,Knowledge dimension (collapsed),0.39,2,0.821,Stable
+manuscript,Collapsed exploratory GEE,Cognitive process (collapsed),5.06,3,0.167,Stable
+manuscript,Collapsed exploratory GEE,Reasoning complexity,10.45,2,0.005,Stable
+manuscript,Collapsed exploratory GEE,Clinical risk,0.62,4,0.960,Stable
+manuscript,Collapsed exploratory GEE,Difficulty,0.41,2,0.814,Stable
+manuscript,Collapsed exploratory GEE,Universal task category,0.50,3,0.919,Stable
+manuscript,Expanded exploratory GEE,Knowledge dimension,Unstable,3,Unstable,Robust covariance indefinite
+manuscript,Expanded exploratory GEE,Cognitive process,Unstable,4,Unstable,Robust covariance indefinite
+manuscript,Expanded exploratory GEE,Reasoning complexity,10.47,2,0.005,Stable positive signal
+manuscript,Expanded exploratory GEE,Clinical risk,0.56,3,0.905,Stable null
+manuscript,Expanded exploratory GEE,Difficulty,0.39,2,0.821,Stable null
+manuscript,Expanded exploratory GEE,Universal task category,0.43,3,0.934,Stable null
+supplement,Expanded exploratory GEE (raw robust),Knowledge dimension,-0.16,3,1.000,Noninterpretable raw robust output
+supplement,Expanded exploratory GEE (raw robust),Cognitive process,-10.43,4,1.000,Noninterpretable raw robust output
+supplement,Expanded exploratory GEE (raw robust),Reasoning complexity,10.47,2,0.005,Stable positive signal
+supplement,Expanded exploratory GEE (raw robust),Clinical risk,0.56,3,0.905,Stable null
+supplement,Expanded exploratory GEE (raw robust),Difficulty,0.39,2,0.821,Stable null
+supplement,Expanded exploratory GEE (raw robust),Universal task category,0.43,3,0.934,Stable null
+supplement,Expanded exploratory GEE (model-based covariance sensitivity),Knowledge dimension,0.01,3,1.000,Stable sensitivity result
+supplement,Expanded exploratory GEE (model-based covariance sensitivity),Cognitive process,0.22,4,0.994,Stable sensitivity result
+supplement,Expanded exploratory GEE (model-based covariance sensitivity),Reasoning complexity,8.19,2,0.017,Stable sensitivity result
+supplement,Expanded exploratory GEE (model-based covariance sensitivity),Clinical risk,0.66,3,0.883,Stable sensitivity result
+supplement,Expanded exploratory GEE (model-based covariance sensitivity),Difficulty,0.26,2,0.880,Stable sensitivity result
+supplement,Expanded exploratory GEE (model-based covariance sensitivity),Universal task category,0.97,3,0.809,Stable sensitivity result

@@ -1,0 +1,8 @@
+model,factor,wald_chi2,df,p_value
+Expanded exploratory GEE,Intercept,20.08262008,1,7.416761422782767e-06
+Expanded exploratory GEE,Knowledge,2.59400373,3,0.45854174088971356
+Expanded exploratory GEE,Cognitive,5.63924438,4,0.227758214567258
+Expanded exploratory GEE,Complexity,10.4682723,2,0.005331428052713055
+Expanded exploratory GEE,Risk,0.56032005,3,0.9054529932265357
+Expanded exploratory GEE,Difficulty,0.39362866,2,0.8213431183428628
+Expanded exploratory GEE,Task,0.4275411,3,0.9344961888412013

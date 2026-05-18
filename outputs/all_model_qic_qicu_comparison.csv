@@ -1,0 +1,7 @@
+model_spec,family,qic,qicu,delta_qic_vs_best,delta_qicu_vs_best
+minus_knowledge_difficulty_clinicalrisk,candidate_reduced_models,1943.6630836957115,1943.651512610474,0.0,0.0
+primary_reduced_cognitive_complexity_task,primary_model,1943.6630836957115,1943.651512610474,0.0,0.0
+reduced_cognitive_complexity_only,new_simplified_model,1943.7371262365843,1944.9841460623925,0.07404254087282425,1.332633451918582
+minus_knowledge_difficulty,candidate_reduced_models,1944.9958753220455,1945.6299667414464,1.3327916263340285,1.9784541309725228
+minus_knowledge,candidate_reduced_models,1945.2089202588072,1947.980603951107,1.5458365630956905,4.329091340633113
+full_taxonomy_remember_reference,expanded_full_model,1946.4394563173219,1953.5571407004459,2.776372621610335,9.90562808997197

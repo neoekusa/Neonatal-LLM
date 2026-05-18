@@ -1,0 +1,13 @@
+Factor,Category,aOR,p-value,95% CI
+Cognitive Process,Remember (Ref),1.0,-,-
+Reasoning Complexity,Low (Ref),1.0,-,-
+Universal Task Category,1 Physiology and Pathophysiology (Ref),1.0,-,-
+Cognitive Process,Analyze,0.40516496430421994,0.22691854491762864,"[0.09, 1.75]"
+Cognitive Process,Apply,0.21241251396651137,0.030453243614440195,"[0.05, 0.86]"
+Cognitive Process,Evaluate,0.2527801749553958,0.16435333913119798,"[0.04, 1.76]"
+Cognitive Process,Understand,0.6969000275657427,0.5239309278662213,"[0.23, 2.12]"
+Reasoning Complexity,High,7.585329712191414,0.006400555041442034,"[1.77, 32.55]"
+Reasoning Complexity,Moderate,5.4634062796627,0.0004373258516618148,"[2.12, 14.08]"
+Universal Task Category,2 Epidemiology and Risk Assessment,1.128336383022664,0.8015543375291263,"[0.44, 2.89]"
+Universal Task Category,3 Diagnosis,0.6921500872942085,0.6040707820884444,"[0.17, 2.78]"
+Universal Task Category,4 Management and Treatment,0.9049696221270404,0.8549548924534345,"[0.31, 2.64]"

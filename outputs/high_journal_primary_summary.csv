@@ -1,0 +1,7 @@
+section,detail
+Primary model,Question-clustered GEE with exchangeable correlation
+References,Cognitive process=Remember; Reasoning complexity=Low; Task category=Physiology/Pathophysiology
+Model fit,QIC=1943.66; QICu=1943.65
+Wald: Cognitive_Process,"chi-square=6.19, df=4, p=0.185"
+Wald: Reasoning_Complexity,"chi-square=12.60, df=2, p=0.002"
+Wald: Universal_Task_Category,"chi-square=0.61, df=3, p=0.893"

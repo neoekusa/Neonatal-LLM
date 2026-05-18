@@ -1,0 +1,17 @@
+Cochran's Q statistic: 175.6661
+df: 19
+p-value: 2.20142e-27
+Mean pairwise Spearman rho: 0.4176
+Median pairwise Spearman rho: 0.4245
+Range pairwise Spearman rho: 0.0718 to 0.8195
+Top 10 model pairs by error-pattern rho:
+Gemini 3 Pro vs Grok 4: rho=0.8195
+ChatGPT-5.4 Thinking vs ChatGPT-5.4: rho=0.7855
+Gemini 3.1 Pro vs ChatGPT-5.5 Thinking: rho=0.7419
+Gemini 3 Pro vs ChatGPT-5.4: rho=0.7272
+Gemini 3 Pro vs ChatGPT-5.4 Thinking: rho=0.7106
+Grok 4.2 vs Llama 4: rho=0.7105
+Claude Sonnet 4.6 vs ChatGPT-5.4: rho=0.6775
+ChatGPT-5 vs ChatGPT-5.2: rho=0.6636
+ChatGPT-5 vs Gemini 3 Pro: rho=0.6301
+Gemini 3 Pro vs Claude Sonnet 4.5: rho=0.6276

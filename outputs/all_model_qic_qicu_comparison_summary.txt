@@ -1,0 +1,12 @@
+                               model_spec                   family         qic        qicu  delta_qic_vs_best  delta_qicu_vs_best
+  minus_knowledge_difficulty_clinicalrisk candidate_reduced_models 1943.663084 1943.651513           0.000000            0.000000
+primary_reduced_cognitive_complexity_task            primary_model 1943.663084 1943.651513           0.000000            0.000000
+        reduced_cognitive_complexity_only     new_simplified_model 1943.737126 1944.984146           0.074043            1.332633
+               minus_knowledge_difficulty candidate_reduced_models 1944.995875 1945.629967           1.332792            1.978454
+                          minus_knowledge candidate_reduced_models 1945.208920 1947.980604           1.545837            4.329091
+         full_taxonomy_remember_reference      expanded_full_model 1946.439456 1953.557141           2.776373            9.905628
+
+Reference check:
+                            spec         qic        qicu  not_qic_quasi_likelihood                                                                           note  delta_qic    delta_qicu  delta_not_qic_quasi_likelihood                                                                                                                                                                                                                                                                                              interpretation
+   full_taxonomy_apply_reference 1946.014515 1953.557141                -958.77857 Reference recoding diagnostic only; not used as separate model in QIC ranking.   0.000000  0.000000e+00                    0.000000e+00 QIC values are positive in this table. The negative column is quasi-likelihood, not QIC. Quasi-likelihood and QICu are useful for reference-coding diagnostics. The QIC trace penalty can change under recoding for this unstable expanded model, so the recoded fit is excluded from model-ranking tables.
+full_taxonomy_remember_reference 1946.439456 1953.557141                -958.77857                         Final expanded-model parameterization used in ranking.   0.424942 -2.273737e-13                    1.136868e-13 QIC values are positive in this table. The negative column is quasi-likelihood, not QIC. Quasi-likelihood and QICu are useful for reference-coding diagnostics. The QIC trace penalty can change under recoding for this unstable expanded model, so the recoded fit is excluded from model-ranking tables.

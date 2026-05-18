@@ -1,0 +1,18 @@
+Variable,Model,Wald chi-square,df,p-value
+Reasoning complexity,Expanded exploratory GEE,10.47,2,0.005
+Reasoning complexity,Collapsed exploratory GEE,10.45,2,0.005
+Reasoning complexity,Primary clustered GEE,12.60,2,0.002
+Reasoning complexity,Simplified clustered GEE,13.17,2,0.001
+Cognitive process,Expanded exploratory GEE,Unstable,4,Unstable
+Cognitive process,Collapsed exploratory GEE,5.06,3,0.167
+Cognitive process,Primary clustered GEE,6.19,4,0.185
+Cognitive process,Simplified clustered GEE,8.74,4,0.068
+Knowledge dimension,Expanded exploratory GEE,Unstable,3,Unstable
+Knowledge dimension,Collapsed exploratory GEE,0.39,2,0.821
+Difficulty,Expanded exploratory GEE,0.39,2,0.821
+Difficulty,Collapsed exploratory GEE,0.41,2,0.814
+Clinical risk,Expanded exploratory GEE,0.56,3,0.905
+Clinical risk,Collapsed exploratory GEE,0.62,4,0.960
+Universal task category,Expanded exploratory GEE,0.43,3,0.934
+Universal task category,Collapsed exploratory GEE,0.50,3,0.919
+Universal task category,Primary clustered GEE,0.61,3,0.893
