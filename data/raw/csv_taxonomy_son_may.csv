@@ -1,0 +1,128 @@
+Q No,Main Domain,Subdomain,Knowledge Dimension,Cognitive Process,Reasoning  Complexity,Clinical Risk,Difficulty,Main Guideline,Universal Task Category
+1,Dermatology,Newborn Rashes (ETN),Procedural,Apply,Low,Medium,Medium,AAP Dermatology,4. Management and Treatment
+2,Infectious Dis.,Congenital Pneumonia,Conceptual,Analyze,Moderate,High,Hard,AAP Red Book,2. Epidemiology and Risk Assessment
+3,Endocrinology,Hypoglycemia Risks,Conceptual,Understand,Low,High,Medium,AAP / PES,2. Epidemiology and Risk Assessment
+4,Endocrinology,IDM Complications,Conceptual,Analyze,Moderate,High,Medium,ADA / AAP,1. Physiology and Pathophysiology
+5,Gastroenterology,NEC (Imaging/Dx),Procedural,Analyze,Moderate,Critical,Hard,Bell's Criteria,3. Diagnosis
+6,Neurology,Birth Trauma (Heme),Conceptual,Analyze,Moderate,High,Hard,NNP Protocols,3. Diagnosis
+7,Infectious Dis.,Hepatitis B (HBV),Procedural,Apply,Moderate,High,Medium,CDC / Red Book,4. Management and Treatment
+8,Cardiology,Cyanotic CHD (Tricuspid),Conceptual,Analyze,High,Critical,Hard,PALS / AHA,3. Diagnosis
+9,Cardiology,Duct-dependent (HLHS),Conceptual,Analyze,High,Critical,Hard,PALS / AHA,3. Diagnosis
+10,Cardiology,Anti-arrhythmics,Factual,Remember,Low,Medium,Low,AHA Guidelines,1. Physiology and Pathophysiology
+11,Adverse Exposures to the Fetus,Prenatal Environmental Exposure (Smoking),Conceptual,Understand,Low,Low,Low,WHO / CDC,2. Epidemiology and Risk Assessment
+12,Perinatal Transition and Newborn Resuscitation,NRP Algorithm,Procedural,Apply,High,Critical,Hard,NRP (8th Ed),4. Management and Treatment
+13,Hematology,Vit K Deficiency (VKDB),Conceptual,Understand,Low,High,Medium,AAP Guidelines,1. Physiology and Pathophysiology
+14,Pulmonology,PPHN (Risk Factors),Conceptual,Understand,Low,High,Medium,AHA/ATS PPHN,2. Epidemiology and Risk Assessment
+15,Hematology,Hyperbilirubinemia,Conceptual,Understand,Moderate,High,Medium,AAP Bili-Tool,2. Epidemiology and Risk Assessment
+16,Hematology,Hemolysis (G6PD),Conceptual,Analyze,Moderate,High,Hard,WHO / AAP,3. Diagnosis
+17,Nephrology,Renal Venous Thrombosis,Conceptual,Analyze,Moderate,High,Hard,CHEST / AAP,3. Diagnosis
+18,Gastroenterology,Pyloric Stenosis (HPS),Procedural,Apply,Moderate,Medium,Medium,Pediatric Surgery,3. Diagnosis
+19,Hematology,Factor XIII Deficiency,Conceptual,Analyze,High,High,Hard,ISTH Guidelines,3. Diagnosis
+20,Physiology,Fetal Circulation,Factual,Remember,Low,Low,Low,Basic Science,1. Physiology and Pathophysiology
+21,Genetics,Syndromic CHD,Factual,Remember,Low,Low,Medium,AHA / Genetics,2. Epidemiology and Risk Assessment
+22,Cardiology,Pulse Pressure (Truncus),Conceptual,Understand,Moderate,Medium,Medium,PALS / AHA,1. Physiology and Pathophysiology
+23,Nephrology,ARPKD (Genetics),Factual,Remember,Low,Low,Medium,KDIGO / IPNA,1. Physiology and Pathophysiology
+24,Endocrinology,Ambiguous Genitalia,Conceptual,Analyze,High,Medium,Hard,ESPE Guidelines,3. Diagnosis
+25,Gastroenterology,NEC General Features,Conceptual,Understand,Low,Medium,Low,AAP / Bell's,1. Physiology and Pathophysiology
+26,Infectious Dis.,Congenital CMV,Factual,Remember,Low,Medium,Medium,Red Book / CDC,2. Epidemiology and Risk Assessment
+27,Assessment,Ballard Score,Procedural,Understand,Low,Low,Medium,Ballard Original,3. Diagnosis
+28,Infectious Dis.,Early-Onset Sepsis,Conceptual,Understand,Moderate,High,Medium,AAP EOS Calc,2. Epidemiology and Risk Assessment
+29,Cardiology,PPHN Treatment (NO),Procedural,Understand,Moderate,High,Medium,AHA/ATS,1. Physiology and Pathophysiology
+30,Pulm / Surgery,Resp. Distress (Diff Dx),Conceptual,Analyze,High,High,Hard,AAP Guidelines,2. Epidemiology and Risk Assessment
+31,Cardiology,S2 Heart Sounds,Factual,Remember,Low,Medium,Medium,AHA Cardiology,1. Physiology and Pathophysiology
+32,Cardiology,Pulmonary Blood Flow,Conceptual,Understand,Moderate,Medium,Medium,AHA Cardiology,1. Physiology and Pathophysiology
+33,Genetics,RASopathies,Factual,Remember,Low,Low,Medium,ACMG Guidelines,1. Physiology and Pathophysiology
+34,Perinatology,Teratogens,Factual,Remember,Low,Medium,Medium,FDA / CDC,2. Epidemiology and Risk Assessment
+35,Metabolism,NKH Presentation,Conceptual,Analyze,High,High,Hard,Metabolism Manual,3. Diagnosis
+36,Neurology,IVH Staging,Factual,Remember,Low,High,Medium,Papile Criteria,3. Diagnosis
+37,Infectious Dis.,RSV Prophylaxis,Procedural,Apply,Moderate,Medium,Medium,AAP Palivizumab,4. Management and Treatment
+38,Surgery,CDH Management,Conceptual,Analyze,High,Critical,Hard,CDH Euro Cons.,3. Diagnosis
+39,"Fluid, Electrolytes, and Acid-Base Homeostasis ",VLBW Complications,Conceptual,Understand,Moderate,High,Medium,AAP Nutrition,4. Management and Treatment
+40,Neurology/Infectious Disease,Neonatal HSV (Acyclovir),Procedural,Apply,High,Critical,Hard,AAP Red Book,4. Management and Treatment
+41,Metabolism,Urea Cycle (OTC),Conceptual,Analyze,Moderate,High,Hard,Metabolism Manual,3. Diagnosis
+42,Endocrinology,CAH Enzyme Def.,Conceptual,Analyze,High,High,Hard,Endocrine Society,3. Diagnosis
+43,Infectious Dis.,HBV Follow-up,Procedural,Apply,Moderate,High,Medium,CDC Guidelines,4. Management and Treatment
+44,Toxicology/Perinatology,Minamata Disease,Factual,Remember,Low,Low,Low,WHO Guidelines,2. Epidemiology and Risk Assessment
+45,Neurology,HIE Sarnat Staging,Conceptual,Understand,Moderate,Critical,Medium,Sarnat / ILCOR,1. Physiology and Pathophysiology
+46,Neurology,Kernicterus,Conceptual,Understand,Moderate,High,Medium,AAP Jaundice,2. Epidemiology and Risk Assessment
+47,Hematology,Vit K / Drugs,Factual,Understand,Low,High,Medium,AAP Guidelines,2. Epidemiology and Risk Assessment
+48,Pharmacology,Drug Side Effects,Factual,Remember,Low,Medium,Medium,Micromedex,4. Management and Treatment
+49,Pulmonology,Surfactant Proteins,Factual,Remember,Low,Low,Low,Basic Science,1. Physiology and Pathophysiology
+50,Genetics,BWS and Tumors,Conceptual,Understand,Moderate,Medium,Medium,ACMG / NCCN,2. Epidemiology and Risk Assessment
+51,Gastroenterology,GALD Diagnosis,Conceptual,Analyze,High,High,Hard,Hepatology Cons.,3. Diagnosis
+52,Hematology,Neonatal ITP,Conceptual,Analyze,Moderate,High,Medium,AAP / Heme,3. Diagnosis
+53,Gastroenterology,Congenital Diarrhea,Conceptual,Analyze,High,High,Hard,GI Consensus,3. Diagnosis
+54,Neurology,PVL and CP Types,Conceptual,Understand,Moderate,High,Medium,Neuro Protocols,2. Epidemiology and Risk Assessment
+55,Cardiology,Pulm Venous HT,Conceptual,Understand,Moderate,Medium,Medium,AHA Cardiology,1. Physiology and Pathophysiology
+56,Genetics,22q11 (DiGeorge),Factual,Remember,Low,Medium,Medium,AHA / ACMG,2. Epidemiology and Risk Assessment
+57,Infectious Dis.,Toxoplasmosis,Conceptual,Understand,Moderate,Medium,Medium,Red Book / CDC,2. Epidemiology and Risk Assessment
+58,Physiology,Hb-O2 Curve,Conceptual,Understand,Low,Low,Medium,Basic Science,1. Physiology and Pathophysiology
+59,Gastroenterology,Malabsorption,Conceptual,Understand,Moderate,Medium,Medium,GI Guidelines,3. Diagnosis
+60,Cardiology,PGE1 Application,Procedural,Apply,High,Critical,Hard,PALS / AHA,4. Management and Treatment
+61,Terminology,Gestational Definitions,Factual,Remember,Low,Low,Low,AAP / ACOG,1. Physiology and Pathophysiology
+62,Neurology,aEEG Monitoring,Procedural,Understand,Moderate,High,Medium,Neuro Consensus,3. Diagnosis
+63,Nephrology,Hepatic Fibrosis,Factual,Remember,Low,Medium,Medium,KDIGO,2. Epidemiology and Risk Assessment
+64,Endocrinology,Cong. Hypothyroid,Metacognitive,Evaluate,Moderate,High,Hard,AAP / ESPE,4. Management and Treatment
+65,Infectious Dis.,Varicella,Procedural,Apply,Moderate,High,Medium,CDC / Red Book,4. Management and Treatment
+66,Rheumatology,Neonatal Lupus,Conceptual,Analyze,Moderate,High,Medium,ACR Guidelines,3. Diagnosis
+67,Nutrition,Vitamin C / TPN,Conceptual,Analyze,High,Medium,Hard,AAP / ASPEN,3. Diagnosis
+68,Development,Red Flags,Conceptual,Analyze,Moderate,Medium,Medium,AAP Bright Futures,1. Physiology and Pathophysiology
+69,Assessment,Ballard Criteria,Factual,Remember,Low,Low,Low,Ballard Original,3. Diagnosis
+70,Pharmacology,Caffeine Mechanism,Conceptual,Understand,Low,Low,Low,AAP Apnea,1. Physiology and Pathophysiology
+71,Ophthalmology,ROP Risks,Conceptual,Understand,Moderate,High,Medium,AAP ROP Guidelines,2. Epidemiology and Risk Assessment
+72,Gastroenterology,NEC Prevention,Conceptual,Understand,Moderate,High,Medium,AAP / Cochrane,4. Management and Treatment
+73,Endocrinology,Hyperinsulinism Tx,Procedural,Apply,Moderate,High,Medium,PES / Endocrine,4. Management and Treatment
+74,Neurology,Sarnat Stage II,Factual,Remember,Moderate,High,Medium,Sarnat Criteria,3. Diagnosis
+75,Hematology,IVIG in Hemolysis,Procedural,Apply,Moderate,High,Medium,AAP Bili-Tool,4. Management and Treatment
+76,Metabolism,NKH Seizures,Conceptual,Analyze,High,High,Hard,Metabolism Manual,3. Diagnosis
+77,Infectious Dis.,Rubella Features,Factual,Remember,Low,Medium,Medium,Red Book,2. Epidemiology and Risk Assessment
+78,Cardiology,Lithium Effects,Factual,Remember,Low,Low,Low,AHA / FDA,2. Epidemiology and Risk Assessment
+79,Social / Abuse,Mandatory Screens,Procedural,Understand,Moderate,Medium,Medium,AAP / CDC,4. Management and Treatment
+80,Genetics,Noonan Syndrome,Factual,Remember,Low,Low,Medium,ACMG Guidelines,2. Epidemiology and Risk Assessment
+81,Cardiology,Heart Failure Causes,Conceptual,Understand,Moderate,Medium,Medium,AHA Cardiology,1. Physiology and Pathophysiology
+82,Infectious Dis.,Rubella Sequelae,Factual,Remember,Low,Medium,Medium,Red Book,2. Epidemiology and Risk Assessment
+83,Genetics,Barth Syndrome,Factual,Remember,Low,Low,Hard,Genetics Database,2. Epidemiology and Risk Assessment
+84,Cardiology,Hydrops Fetalis,Conceptual,Understand,Moderate,High,Medium,SMFM Guidelines,2. Epidemiology and Risk Assessment
+85,Pulmonology,Pulm Hypoplasia,Conceptual,Understand,Moderate,High,Medium,AAP Guidelines,2. Epidemiology and Risk Assessment
+86,Gastroenterology,Erythromycin & HPS,Factual,Remember,Low,Medium,Medium,FDA / AAP,2. Epidemiology and Risk Assessment
+87,Pulmonology,BPD Pathogenesis,Conceptual,Understand,Low,High,Medium,AAP / NHLBI,1. Physiology and Pathophysiology
+88,Neurology,Acute Bili Enceph.,Conceptual,Understand,Moderate,High,Medium,AAP Jaundice,3. Diagnosis
+89,Cardiology,PGE1 in Cyanosis,Metacognitive,Evaluate,High,Critical,Hard,PALS / AHA,4. Management and Treatment
+90,Nutrition,Breastfeeding Contra.,Procedural,Apply,Moderate,High,Medium,AAP / CDC,4. Management and Treatment
+91,Nephrology,CNS Genetics,Factual,Remember,Low,Medium,Hard,IPNA Guidelines,1. Physiology and Pathophysiology
+92,Endocrinology,Hyperinsulinism Lab,Conceptual,Analyze,High,High,Hard,PES Guidelines,3. Diagnosis
+93,Neurology,Autism & Valproate,Factual,Remember,Low,Low,Medium,FDA / AAP,2. Epidemiology and Risk Assessment
+94,Neurology,HIE Cooling (aEEG),Metacognitive,Evaluate,High,Critical,Hard,ILCOR Protocols,4. Management and Treatment
+95,Perinatology,Polyhydramnios,Factual,Remember,Low,Low,Medium,SMFM Guidelines,2. Epidemiology and Risk Assessment
+96,Ventilation,PaCO2 Adjustment,Procedural,Apply,High,High,Hard,Vent Protocols,4. Management and Treatment
+97,Pernatalogy/Hematology,Rh Transfusion,Procedural,Apply,Moderate,High,Medium,ACOG / SMFM,4. Management and Treatment
+98,Hematology/Neurology,Chronic Kernicterus,Factual,Remember,Low,High,Medium,AAP Jaundice,2. Epidemiology and Risk Assessment
+99,Hematology,VKDB Prevention,Conceptual,Understand,Low,High,Medium,AAP Guidelines,1. Physiology and Pathophysiology
+100,Metabolism,Dx Importance,Procedural,Analyze,Moderate,High,Medium,Metabolism Manual,3. Diagnosis
+101,Infectious Dis.,Parvovirus,Factual,Remember,Moderate,High,Medium,CDC / Red Book,2. Epidemiology and Risk Assessment
+102,Infectious Dis.,Sepsis Tx,Procedural,Apply,Moderate,High,Medium,AAP EOS Calc,4. Management and Treatment
+103,Social / Abuse,Abuse Signs,Conceptual,Analyze,Moderate,High,Medium,AAP Protocols,3. Diagnosis
+104,Rheumatology,Maternal Sjögren,Factual,Remember,Moderate,High,Medium,ACR Cardiology,2. Epidemiology and Risk Assessment
+105,Cardiology,VSD Surgery,Metacognitive,Evaluate,Moderate,High,Medium,AHA Cardiology,4. Management and Treatment
+106,Metabolism,OTC Clinical,Conceptual,Analyze,High,High,Hard,Metabolism Manual,3. Diagnosis
+107,Metabolism,Untreatable Tx,Factual,Remember,Low,Low,Medium,Genetics Database,4. Management and Treatment
+108,Metabolism,NKH Diagnosis,Conceptual,Analyze,High,High,Hard,Metabolism Manual,3. Diagnosis
+109,Metabolism,Rickets Lab,Conceptual,Understand,Moderate,Medium,Medium,AAP / Endocrine,1. Physiology and Pathophysiology
+110,Endocrinology,Cong. Hypothyroid,Conceptual,Analyze,Moderate,High,Medium,ESPE Guidelines,1. Physiology and Pathophysiology
+111,Genetics,FAS Microcephaly,Factual,Remember,Low,Low,Low,CDC Guidelines,2. Epidemiology and Risk Assessment
+112,Genetics,VACTERL Association,Conceptual,Analyze,Moderate,Medium,Hard,Pediatric Surgery,2. Epidemiology and Risk Assessment
+113,Genetics,Turner Edema,Conceptual,Analyze,Moderate,Medium,Medium,ACMG Guidelines,1. Physiology and Pathophysiology
+114,Perinatology,Polyhydramnios Causes,Factual,Remember,Low,Low,Medium,SMFM,2. Epidemiology and Risk Assessment
+115,Infectious Dis.,Palivizumab,Procedural,Apply,Moderate,High,Medium,AAP RSV Protocol,4. Management and Treatment
+116,Infectious Dis.,Rubella Rash,Conceptual,Analyze,Moderate,Medium,Medium,Red Book,3. Diagnosis
+117,Pulmonology,TTN Management,Metacognitive,Evaluate,Moderate,Medium,Medium,AAP Guidelines,4. Management and Treatment
+118,Gastroenterology,CF Echogenic Bowel,Factual,Remember,Moderate,Medium,Medium,CF Foundation,3. Diagnosis
+119,Hematology,Factor VII Def.,Conceptual,Analyze,High,High,Hard,ISTH Guidelines,3. Diagnosis
+120,Cardiology,EKG Axis,Factual,Remember,Low,Low,Medium,AHA Cardiology,3. Diagnosis
+121,Pharmacology,Indomethacin Contra.,Procedural,Apply,Moderate,High,Medium,AAP / Nephro,4. Management and Treatment
+122,Cardiology,Murmur Local,Factual,Remember,Low,Low,Medium,AHA Cardiology,3. Diagnosis
+123,Infectious Dis.,CMV Sequelae,Factual,Remember,Moderate,Medium,Medium,CDC / Red Book,2. Epidemiology and Risk Assessment
+124,Gastroenterology,Diarrhea Diff.,Procedural,Understand,Moderate,Medium,Medium,GI Consensus,3. Diagnosis
+125,Nephrology,PUV Imaging,Procedural,Apply,Moderate,High,Hard,ESPU Urology,3. Diagnosis
+126,Nephrology,CNS Finnish,Factual,Remember,Moderate,Medium,Medium,IPNA Guidelines,1. Physiology and Pathophysiology
+127,Cardiology,Pulm Flow (Ebstein),Conceptual,Understand,Moderate,Medium,Medium,AHA Cardiology,1. Physiology and Pathophysiology
