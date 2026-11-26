@@ -1,0 +1,4 @@
+table,possible_cells,occupied,empty,singleton,occupied_with_1_to_4_questions,questions
+complexity_by_cognitive,15,11,4,1,4,127
+primary_strata,60,25,35,4,17,127
+full_strata,2880,63,2817,40,57,127

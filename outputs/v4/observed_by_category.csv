@@ -1,0 +1,262 @@
+factor,level,questions,incorrect,responses,observed_failure
+Complexity,High,22,65,440,0.14772727272727273
+Complexity,Low,43,63,860,0.07325581395348837
+Complexity,Moderate,62,223,1240,0.17983870967741936
+Cognitive,Analyze,32,94,640,0.146875
+Cognitive,Apply,18,30,360,0.08333333333333333
+Cognitive,Evaluate,5,11,100,0.11
+Cognitive,Remember,37,87,740,0.11756756756756757
+Cognitive,Understand,35,129,700,0.18428571428571427
+Task,1_Physiology_and_Pathophysiology,27,78,540,0.14444444444444443
+Task,2_Epidemiology_and_Risk_Assessment,36,116,720,0.16111111111111112
+Task,3_Diagnosis,38,102,760,0.13421052631578947
+Task,4_Management_and_Treatment,26,55,520,0.10576923076923077
+Knowledge,Conceptual,59,202,1180,0.1711864406779661
+Knowledge,Factual,38,88,760,0.11578947368421053
+Knowledge,Metacognitive,5,11,100,0.11
+Knowledge,Procedural,25,50,500,0.1
+Risk,Critical,10,26,200,0.13
+Risk,High,59,189,1180,0.16016949152542373
+Risk,Low,22,35,440,0.07954545454545454
+Risk,Medium,36,101,720,0.14027777777777778
+Difficulty,Hard,33,87,660,0.1318181818181818
+Difficulty,Low,11,14,220,0.06363636363636363
+Difficulty,Medium,83,250,1660,0.15060240963855423
+Main Domain,Adverse Exposures to the Fetus,1,1,20,0.05
+Main Domain,Assessment,2,2,40,0.05
+Main Domain,Cardiology,17,48,340,0.1411764705882353
+Main Domain,Dermatology,1,0,20,0.0
+Main Domain,Development,1,5,20,0.25
+Main Domain,Endocrinology,8,26,160,0.1625
+Main Domain,"Fluid, Electrolytes, and Acid-Base Homeostasis",1,1,20,0.05
+Main Domain,Gastroenterology,10,34,200,0.17
+Main Domain,Genetics,9,7,180,0.03888888888888889
+Main Domain,Hematology,9,18,180,0.1
+Main Domain,Hematology/Neurology,1,3,20,0.15
+Main Domain,Infectious Dis.,15,15,300,0.05
+Main Domain,Metabolism,8,21,160,0.13125
+Main Domain,Nephrology,6,22,120,0.18333333333333332
+Main Domain,Neurology,10,40,200,0.2
+Main Domain,Neurology/Infectious Disease,1,0,20,0.0
+Main Domain,Nutrition,2,3,40,0.075
+Main Domain,Ophthalmology,1,13,20,0.65
+Main Domain,Perinatal Transition and Newborn Resuscitation,1,0,20,0.0
+Main Domain,Perinatology,3,24,60,0.4
+Main Domain,Pernatalogy/Hematology,1,3,20,0.15
+Main Domain,Pharmacology,3,6,60,0.1
+Main Domain,Physiology,2,1,40,0.025
+Main Domain,Pulm / Surgery,1,13,20,0.65
+Main Domain,Pulmonology,5,21,100,0.21
+Main Domain,Rheumatology,2,1,40,0.025
+Main Domain,Social / Abuse,2,7,40,0.175
+Main Domain,Surgery,1,1,20,0.05
+Main Domain,Terminology,1,4,20,0.2
+Main Domain,Toxicology/Perinatology,1,0,20,0.0
+Main Domain,Ventilation,1,11,20,0.55
+Main Guideline,AAP / ACOG,1,4,20,0.2
+Main Guideline,AAP / ASPEN,1,3,20,0.15
+Main Guideline,AAP / Bell's,1,1,20,0.05
+Main Guideline,AAP / CDC,2,6,40,0.15
+Main Guideline,AAP / Cochrane,1,1,20,0.05
+Main Guideline,AAP / ESPE,1,0,20,0.0
+Main Guideline,AAP / Endocrine,1,2,20,0.1
+Main Guideline,AAP / Heme,1,0,20,0.0
+Main Guideline,AAP / NHLBI,1,0,20,0.0
+Main Guideline,AAP / Nephro,1,1,20,0.05
+Main Guideline,AAP / PES,1,0,20,0.0
+Main Guideline,AAP Apnea,1,0,20,0.0
+Main Guideline,AAP Bili-Tool,2,14,40,0.35
+Main Guideline,AAP Bright Futures,1,5,20,0.25
+Main Guideline,AAP Dermatology,1,0,20,0.0
+Main Guideline,AAP EOS Calc,2,1,40,0.025
+Main Guideline,AAP Guidelines,6,32,120,0.26666666666666666
+Main Guideline,AAP Jaundice,3,22,60,0.36666666666666664
+Main Guideline,AAP Nutrition,1,1,20,0.05
+Main Guideline,AAP Palivizumab,1,6,20,0.3
+Main Guideline,AAP Protocols,1,1,20,0.05
+Main Guideline,AAP ROP Guidelines,1,13,20,0.65
+Main Guideline,AAP RSV Protocol,1,0,20,0.0
+Main Guideline,AAP Red Book,2,0,40,0.0
+Main Guideline,ACMG / NCCN,1,2,20,0.1
+Main Guideline,ACMG Guidelines,3,0,60,0.0
+Main Guideline,ACOG / SMFM,1,3,20,0.15
+Main Guideline,ACR Cardiology,1,0,20,0.0
+Main Guideline,ACR Guidelines,1,1,20,0.05
+Main Guideline,ADA / AAP,1,3,20,0.15
+Main Guideline,AHA / ACMG,1,0,20,0.0
+Main Guideline,AHA / FDA,1,0,20,0.0
+Main Guideline,AHA / Genetics,1,0,20,0.0
+Main Guideline,AHA Cardiology,8,10,160,0.0625
+Main Guideline,AHA Guidelines,1,0,20,0.0
+Main Guideline,AHA/ATS,1,5,20,0.25
+Main Guideline,AHA/ATS PPHN,1,0,20,0.0
+Main Guideline,Ballard Original,2,2,40,0.05
+Main Guideline,Basic Science,3,6,60,0.1
+Main Guideline,Bell's Criteria,1,0,20,0.0
+Main Guideline,CDC / Red Book,4,6,80,0.075
+Main Guideline,CDC Guidelines,2,0,40,0.0
+Main Guideline,CDH Euro Cons.,1,1,20,0.05
+Main Guideline,CF Foundation,1,0,20,0.0
+Main Guideline,CHEST / AAP,1,0,20,0.0
+Main Guideline,ESPE Guidelines,2,19,40,0.475
+Main Guideline,ESPU Urology,1,0,20,0.0
+Main Guideline,Endocrine Society,1,1,20,0.05
+Main Guideline,FDA / AAP,2,0,40,0.0
+Main Guideline,FDA / CDC,1,7,20,0.35
+Main Guideline,GI Consensus,2,8,40,0.2
+Main Guideline,GI Guidelines,1,20,20,1.0
+Main Guideline,Genetics Database,2,3,40,0.075
+Main Guideline,Hepatology Cons.,1,3,20,0.15
+Main Guideline,ILCOR Protocols,1,9,20,0.45
+Main Guideline,IPNA Guidelines,2,22,40,0.55
+Main Guideline,ISTH Guidelines,2,0,40,0.0
+Main Guideline,KDIGO,1,0,20,0.0
+Main Guideline,KDIGO / IPNA,1,0,20,0.0
+Main Guideline,Metabolism Manual,6,17,120,0.14166666666666666
+Main Guideline,Micromedex,1,5,20,0.25
+Main Guideline,NNP Protocols,1,0,20,0.0
+Main Guideline,NRP (8th Ed),1,0,20,0.0
+Main Guideline,Neuro Consensus,1,2,20,0.1
+Main Guideline,Neuro Protocols,1,0,20,0.0
+Main Guideline,PALS / AHA,5,19,100,0.19
+Main Guideline,PES / Endocrine,1,3,20,0.15
+Main Guideline,PES Guidelines,1,0,20,0.0
+Main Guideline,Papile Criteria,1,0,20,0.0
+Main Guideline,Pediatric Surgery,2,5,40,0.125
+Main Guideline,Red Book,3,2,60,0.03333333333333333
+Main Guideline,Red Book / CDC,2,0,40,0.0
+Main Guideline,SMFM,1,7,20,0.35
+Main Guideline,SMFM Guidelines,2,24,40,0.6
+Main Guideline,Sarnat / ILCOR,1,0,20,0.0
+Main Guideline,Sarnat Criteria,1,10,20,0.5
+Main Guideline,Vent Protocols,1,11,20,0.55
+Main Guideline,WHO / AAP,1,1,20,0.05
+Main Guideline,WHO / CDC,1,1,20,0.05
+Main Guideline,WHO Guidelines,1,0,20,0.0
+Subdomain,22q11 (DiGeorge),1,0,20,0.0
+Subdomain,ARPKD (Genetics),1,0,20,0.0
+Subdomain,Abuse Signs,1,1,20,0.05
+Subdomain,Acute Bili Enceph.,1,12,20,0.6
+Subdomain,Ambiguous Genitalia,1,1,20,0.05
+Subdomain,Anti-arrhythmics,1,0,20,0.0
+Subdomain,Autism & Valproate,1,0,20,0.0
+Subdomain,BPD Pathogenesis,1,0,20,0.0
+Subdomain,BWS and Tumors,1,2,20,0.1
+Subdomain,Ballard Criteria,1,2,20,0.1
+Subdomain,Ballard Score,1,0,20,0.0
+Subdomain,Barth Syndrome,1,1,20,0.05
+Subdomain,Birth Trauma (Heme),1,0,20,0.0
+Subdomain,Breastfeeding Contra.,1,0,20,0.0
+Subdomain,CAH Enzyme Def.,1,1,20,0.05
+Subdomain,CDH Management,1,1,20,0.05
+Subdomain,CF Echogenic Bowel,1,0,20,0.0
+Subdomain,CMV Sequelae,1,1,20,0.05
+Subdomain,CNS Finnish,1,17,20,0.85
+Subdomain,CNS Genetics,1,5,20,0.25
+Subdomain,Caffeine Mechanism,1,0,20,0.0
+Subdomain,Chronic Kernicterus,1,3,20,0.15
+Subdomain,Cong. Hypothyroid,1,0,20,0.0
+Subdomain,Congenital CMV,1,0,20,0.0
+Subdomain,Congenital Diarrhea,1,6,20,0.3
+Subdomain,Congenital Pneumonia,1,0,20,0.0
+Subdomain,Cyanotic CHD (Tricuspid),1,15,20,0.75
+Subdomain,Diarrhea Diff.,1,2,20,0.1
+Subdomain,Drug Side Effects,1,5,20,0.25
+Subdomain,Duct-dependent (HLHS),1,1,20,0.05
+Subdomain,Dx Importance,1,5,20,0.25
+Subdomain,EKG Axis,1,2,20,0.1
+Subdomain,Early-Onset Sepsis,1,0,20,0.0
+Subdomain,Erythromycin & HPS,1,0,20,0.0
+Subdomain,FAS Microcephaly,1,0,20,0.0
+Subdomain,Factor VII Def.,1,0,20,0.0
+Subdomain,Factor XIII Deficiency,1,0,20,0.0
+Subdomain,Fetal Circulation,1,1,20,0.05
+Subdomain,GALD Diagnosis,1,3,20,0.15
+Subdomain,Gestational Definitions,1,4,20,0.2
+Subdomain,HBV Follow-up,1,0,20,0.0
+Subdomain,HIE Cooling (aEEG),1,9,20,0.45
+Subdomain,HIE Sarnat Staging,1,0,20,0.0
+Subdomain,Hb-O2 Curve,1,0,20,0.0
+Subdomain,Heart Failure Causes,1,1,20,0.05
+Subdomain,Hemolysis (G6PD),1,1,20,0.05
+Subdomain,Hepatic Fibrosis,1,0,20,0.0
+Subdomain,Hepatitis B (HBV),1,0,20,0.0
+Subdomain,Hydrops Fetalis,1,14,20,0.7
+Subdomain,Hyperbilirubinemia,1,14,20,0.7
+Subdomain,Hyperinsulinism Lab,1,0,20,0.0
+Subdomain,Hyperinsulinism Tx,1,3,20,0.15
+Subdomain,Hypoglycemia Risks,1,0,20,0.0
+Subdomain,IDM Complications,1,3,20,0.15
+Subdomain,IVH Staging,1,0,20,0.0
+Subdomain,IVIG in Hemolysis,1,0,20,0.0
+Subdomain,Indomethacin Contra.,1,1,20,0.05
+Subdomain,Kernicterus,1,7,20,0.35
+Subdomain,Lithium Effects,1,0,20,0.0
+Subdomain,Malabsorption,1,20,20,1.0
+Subdomain,Mandatory Screens,1,6,20,0.3
+Subdomain,Maternal Sjögren,1,0,20,0.0
+Subdomain,Minamata Disease,1,0,20,0.0
+Subdomain,Murmur Local,1,0,20,0.0
+Subdomain,NEC (Imaging/Dx),1,0,20,0.0
+Subdomain,NEC General Features,1,1,20,0.05
+Subdomain,NEC Prevention,1,1,20,0.05
+Subdomain,NKH Diagnosis,1,0,20,0.0
+Subdomain,NKH Presentation,1,1,20,0.05
+Subdomain,NKH Seizures,1,0,20,0.0
+Subdomain,NRP Algorithm,1,0,20,0.0
+Subdomain,Neonatal HSV (Acyclovir),1,0,20,0.0
+Subdomain,Neonatal ITP,1,0,20,0.0
+Subdomain,Neonatal Lupus,1,1,20,0.05
+Subdomain,Newborn Rashes (ETN),1,0,20,0.0
+Subdomain,Noonan Syndrome,1,0,20,0.0
+Subdomain,OTC Clinical,1,0,20,0.0
+Subdomain,PGE1 Application,1,0,20,0.0
+Subdomain,PGE1 in Cyanosis,1,0,20,0.0
+Subdomain,PPHN (Risk Factors),1,0,20,0.0
+Subdomain,PPHN Treatment (NO),1,5,20,0.25
+Subdomain,PUV Imaging,1,0,20,0.0
+Subdomain,PVL and CP Types,1,0,20,0.0
+Subdomain,PaCO2 Adjustment,1,11,20,0.55
+Subdomain,Palivizumab,1,0,20,0.0
+Subdomain,Parvovirus,1,1,20,0.05
+Subdomain,Polyhydramnios,1,10,20,0.5
+Subdomain,Polyhydramnios Causes,1,7,20,0.35
+Subdomain,Prenatal Environmental Exposure (Smoking),1,1,20,0.05
+Subdomain,Pulm Flow (Ebstein),1,4,20,0.2
+Subdomain,Pulm Hypoplasia,1,15,20,0.75
+Subdomain,Pulm Venous HT,1,0,20,0.0
+Subdomain,Pulmonary Blood Flow,1,0,20,0.0
+Subdomain,Pulse Pressure (Truncus),1,3,20,0.15
+Subdomain,Pyloric Stenosis (HPS),1,1,20,0.05
+Subdomain,RASopathies,1,0,20,0.0
+Subdomain,ROP Risks,1,13,20,0.65
+Subdomain,RSV Prophylaxis,1,6,20,0.3
+Subdomain,Red Flags,1,5,20,0.25
+Subdomain,Renal Venous Thrombosis,1,0,20,0.0
+Subdomain,Resp. Distress (Diff Dx),1,13,20,0.65
+Subdomain,Rh Transfusion,1,3,20,0.15
+Subdomain,Rickets Lab,1,2,20,0.1
+Subdomain,Rubella Features,1,1,20,0.05
+Subdomain,Rubella Rash,1,0,20,0.0
+Subdomain,Rubella Sequelae,1,1,20,0.05
+Subdomain,S2 Heart Sounds,1,2,20,0.1
+Subdomain,Sarnat Stage II,1,10,20,0.5
+Subdomain,Sepsis Tx,1,1,20,0.05
+Subdomain,Surfactant Proteins,1,5,20,0.25
+Subdomain,Syndromic CHD,1,0,20,0.0
+Subdomain,TPO Deficiency,1,18,20,0.9
+Subdomain,TTN Management,1,1,20,0.05
+Subdomain,Teratogens,1,7,20,0.35
+Subdomain,Toxoplasmosis,1,0,20,0.0
+Subdomain,Turner Edema,1,0,20,0.0
+Subdomain,Untreatable Tx,1,2,20,0.1
+Subdomain,Urea Cycle (OTC),1,11,20,0.55
+Subdomain,VACTERL Association,1,4,20,0.2
+Subdomain,VKDB Prevention,1,2,20,0.1
+Subdomain,VLBW Complications,1,1,20,0.05
+Subdomain,VSD Surgery,1,1,20,0.05
+Subdomain,Varicella,1,4,20,0.2
+Subdomain,Vit K / Drugs,1,1,20,0.05
+Subdomain,Vit K Deficiency (VKDB),1,0,20,0.0
+Subdomain,Vitamin C / TPN,1,3,20,0.15
+Subdomain,aEEG Monitoring,1,2,20,0.1

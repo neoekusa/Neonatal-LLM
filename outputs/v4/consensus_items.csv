@@ -1,0 +1,15 @@
+question,models,models_failed,answer_key,domain,subdomain,complexity,risk,modal_wrong_options,models_per_modal_option,wrong_A,wrong_B,wrong_C,wrong_D,wrong_E,non_single_responses,non_single_breakdown
+59,20,20,B,Gastroenterology,Malabsorption,Moderate,Medium,C,17,0,0,17,3,0,0,
+110,20,18,E,Endocrinology,TPO Deficiency,Moderate,High,D,18,0,0,0,18,0,0,
+126,20,17,B,Nephrology,CNS Finnish,Moderate,Medium,D,13,1,0,0,13,3,0,
+8,20,15,A,Cardiology,Cyanotic CHD (Tricuspid),High,Critical,B,13,0,13,1,0,1,0,
+85,20,15,D,Pulmonology,Pulm Hypoplasia,Moderate,High,B,14,0,14,0,0,1,0,
+15,20,14,E,Hematology,Hyperbilirubinemia,Moderate,High,C,10,0,4,10,0,0,0,
+84,20,14,A,Cardiology,Hydrops Fetalis,Moderate,High,C,9,0,0,9,0,5,0,
+30,20,13,B,Pulm / Surgery,Resp. Distress (Diff Dx),High,High,A,9,9,0,4,0,0,0,
+71,20,13,C,Ophthalmology,ROP Risks,Moderate,High,E,9,1,0,0,3,9,0,
+88,20,12,B,Neurology,Acute Bili Enceph.,Moderate,High,E,10,0,0,0,2,10,0,
+41,20,11,C,Metabolism,Urea Cycle (OTC),Moderate,High,A,11,11,0,0,0,0,0,
+96,20,11,C,Ventilation,PaCO2 Adjustment,High,High,D,11,0,0,0,11,0,0,
+74,20,10,B,Neurology,Sarnat Stage II,Moderate,High,E,7,0,0,1,1,7,1,NR (1)
+95,20,10,A,Perinatology,Polyhydramnios,Low,Low,D,7,0,0,3,7,0,0,

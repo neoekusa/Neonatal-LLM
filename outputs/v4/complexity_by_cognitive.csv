@@ -1,0 +1,16 @@
+Complexity,Cognitive,questions,incorrect,responses,observed_failure
+High,Analyze,16,45,320,0.140625
+High,Apply,4,11,80,0.1375
+High,Evaluate,2,9,40,0.225
+High,Remember,0,0,0,
+High,Understand,0,0,0,
+Low,Analyze,0,0,0,
+Low,Apply,1,0,20,0.0
+Low,Evaluate,0,0,0,
+Low,Remember,31,58,620,0.0935483870967742
+Low,Understand,11,5,220,0.022727272727272728
+Moderate,Analyze,16,49,320,0.153125
+Moderate,Apply,13,19,260,0.07307692307692308
+Moderate,Evaluate,3,2,60,0.03333333333333333
+Moderate,Remember,6,29,120,0.24166666666666667
+Moderate,Understand,24,124,480,0.25833333333333336

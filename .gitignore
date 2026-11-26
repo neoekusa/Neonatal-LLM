@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+outputs/.v4.lock
+*.zip
+
+# Study inputs and private correspondence are kept in the locally delivered bundle.
+data/raw/csv_taxonomy_son_april.csv
+data/raw/YDUS_LLM_KEYS_all_LLMS _EK_v12_may_son.csv
+YDUS_LLM_KEYS_all_LLMS _EK_v12_may_son.csv
+revision/
+reviewer comments_bmc.docx

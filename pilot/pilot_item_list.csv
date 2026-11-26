@@ -1,0 +1,29 @@
+Q,group,models_failed_original,reasoning_complexity,main_domain,subdomain,answer_key
+59,consensus_hard,20,Moderate,Gastroenterology,Malabsorption,B
+110,consensus_hard,18,Moderate,Endocrinology,TPO Deficiency,E
+126,consensus_hard,17,Moderate,Nephrology,CNS Finnish,B
+8,consensus_hard,15,High,Cardiology,Cyanotic CHD (Tricuspid),A
+85,consensus_hard,15,Moderate,Pulmonology,Pulm Hypoplasia,D
+15,consensus_hard,14,Moderate,Hematology,Hyperbilirubinemia,E
+84,consensus_hard,14,Moderate,Cardiology,Hydrops Fetalis,A
+30,consensus_hard,13,High,Pulm / Surgery,Resp. Distress (Diff Dx),B
+71,consensus_hard,13,Moderate,Ophthalmology,ROP Risks,C
+88,consensus_hard,12,Moderate,Neurology,Acute Bili Enceph.,B
+41,consensus_hard,11,Moderate,Metabolism,Urea Cycle (OTC),C
+96,consensus_hard,11,High,Ventilation,PaCO2 Adjustment,C
+74,consensus_hard,10,Moderate,Neurology,Sarnat Stage II,B
+95,consensus_hard,10,Low,Perinatology,Polyhydramnios,A
+76,control_matched,0,High,Metabolism,NKH Seizures,C
+92,control_matched,0,High,Endocrinology,Hyperinsulinism Lab,D
+106,control_matched,0,High,Metabolism,OTC Clinical,E
+48,control_matched,5,Low,Pharmacology,Drug Side Effects,E
+17,control_matched,0,Moderate,Nephrology,Renal Venous Thrombosis,D
+22,control_matched,3,Moderate,Cardiology,Pulse Pressure (Truncus),A
+39,control_matched,1,Moderate,"Fluid, Electrolytes, and Acid-Base Homeostasis",VLBW Complications,D
+54,control_matched,0,Moderate,Neurology,PVL and CP Types,A
+68,control_matched,5,Moderate,Development,Red Flags,D
+72,control_matched,1,Moderate,Gastroenterology,NEC Prevention,D
+116,control_matched,0,Moderate,Infectious Dis.,Rubella Rash,A
+117,control_matched,1,Moderate,Pulmonology,TTN Management,B
+118,control_matched,0,Moderate,Gastroenterology,CF Echogenic Bowel,B
+123,control_matched,1,Moderate,Infectious Dis.,CMV Sequelae,D

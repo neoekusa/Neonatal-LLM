@@ -1,0 +1,27 @@
+{
+  "version": "v4",
+  "python_version": "3.12.13",
+  "packages": {
+    "pandas": "2.3.3",
+    "numpy": "2.3.5",
+    "statsmodels": "0.14.5",
+    "scipy": "1.16.3",
+    "patsy": "1.0.3",
+    "matplotlib": "3.10.9",
+    "Pillow": "13.0.0",
+    "filelock": "4.3.0"
+  },
+  "input_files": {
+    "scores": "data/raw/ydus_llm_scores.csv",
+    "taxonomy": "data/raw/taxonomy_annotations.csv"
+  },
+  "inputs_sha256": {
+    "scores": "f0cb3b80f0fcda24aac4d8fa433d6161ce86267ac1067ddc3285a06a81927332",
+    "taxonomy": "94e6e7f4e069ddf6ac967c47f787a8893074e8e8e842f9f9ebe15328917a234f"
+  },
+  "questions": 127,
+  "recorded_columns": 20,
+  "responses": 2540,
+  "incorrect": 351,
+  "crossed_model": "fitted"
+}

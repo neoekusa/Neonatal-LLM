@@ -1,0 +1,6 @@
+model,factors,questions,models,responses,design_columns,design_rank,covariance_rank_relative_tol_1e_10,working_correlation,qic,qicu,status
+primary,Cognitive + Complexity + Task,127,20,2540,10,10,10.0,0.2933592239246866,1943.6630836957115,1943.651512610474,fitted
+full_taxonomy,Cognitive + Complexity + Task + Knowledge + Risk + Difficulty,127,20,2540,18,17,,,,,not fitted: aliased design
+simplified,Cognitive + Complexity,127,20,2540,7,7,7.0,0.29970084551923837,1943.7371262365843,1944.9841460623925,fitted
+llm_fixed_effects,Cognitive + Complexity + Task + Model,127,20,2540,29,29,29.0,0.37383674991084614,1867.5313865000805,1898.7460893590305,fitted
+collapsed_exploratory,Cognitive + Complexity + Task + Knowledge + Risk + Difficulty,127,20,2540,16,16,15.0,0.285850112446428,1945.8654514235761,1950.2681347910643,fitted
